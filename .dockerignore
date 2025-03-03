@@ -1,0 +1,8 @@
+node_modules
+dockerfile
+.gitignore
+.git
+docker-compose.backup.yaml
+docker-compose.prod.yaml
+docker-compose.yaml
+docker-compose.dev.yaml
